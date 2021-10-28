@@ -1,6 +1,8 @@
 # Amazon Selenium Automation
 Selenium, Page Object Model dizayn ile Amazon ürün bulma, sepete ekleme ve sepet kontrolü
+
 Log4j ile log ekleme
+
 Selenium ile ekran görüntüsü alma
 
 Kaynaklar: 
